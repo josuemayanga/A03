@@ -7,14 +7,14 @@
 
 <h1>
 <br>Part 2: Glossary terms
-<br>Branch:</br>
-<br>Clone:</br>
-<br>Fetch:</br>
-<br>GIT:</br>
-<br>Merge:</br>
-<br>Merge Conflict</br>
-<br>Push:</br>
-<br>Pull:</br>
-<br>Remote:</br> 
-<br>Repository:</br> 
+<br>Branch:
+<br>Clone:
+<br>Fetch:
+<br>GIT:
+<br>Merge:
+<br>Merge Conflict:
+<br>Push:
+<br>Pull:
+<br>Remote:
+<br>Repository:
 </h1>
