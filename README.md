@@ -5,7 +5,7 @@
 
 
 
-
+<h1>
 Part 2: Glossary terms
 Branch:
 Clone:
@@ -17,3 +17,4 @@ Push:
 Pull:
 Remote: 
 Repository: 
+</h1>
