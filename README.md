@@ -6,7 +6,7 @@
 
 
 <h1>
-Part 2: Glossary terms
+<br>Part 2: Glossary terms</br>
 Branch:
 Clone:
 Fetch:
