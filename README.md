@@ -7,7 +7,7 @@
 
 <h1>
 <br>Part 2: Glossary terms
-  <br><b>Branch: is a new/separate version of the main repository.
+  <br><b>Branch:</b> is a new/separate version of the main repository.
 <br>Clone:  is primarily used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location
 <br>Fetch: 
 <br>GIT:
