@@ -72,3 +72,11 @@ Branching and merging: Git allows you to create branches to work on different fe
   <br><br><b>Pull:</b>Refers to the process of downloading changes from a remote repository and uploading the local repository to match 
   <br><br><b>Remote:</b>Refers to a repository that is hosted on a server, such as a repository hosted on GITHUB or another hosting service.
   <br><br><b>Repository:</b>A collection of files, folders, and version history that is managed using GIT. A repository is typically used to store and manage source code for a project. 
+  
+  <h1> Sources </h1>
+  
+  https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+  
+  https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
+  
+  https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_user_interface_overview
